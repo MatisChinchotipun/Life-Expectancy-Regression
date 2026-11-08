@@ -52,10 +52,6 @@ SSE_lin = np.sum((y - y_pred_lin)**2)
 # R-squared
 R2_lin = 1 - SSE_lin/SStot
 
-# Adjusted R-squared
-p = 1
-adj_R2_lin = 1 - (1-R2_lin)*(n-1)/(n-p-1)
-
 # RMSE
 RMSE_lin = np.sqrt(SSE_lin/n)
 
@@ -66,7 +62,7 @@ print(f"Model: y = {a0_lin:.6f} + ({a1_lin:.6f})x")
 print(f"SSE = {SSE_lin:.4f}")
 print(f"RMSE = {RMSE_lin:.4f}")
 print(f"R^2 = {R2_lin:.4f}")
-print(f"Adjusted R^2 = {adj_R2_lin:.4f}")
+
 
 
 # ==========================================
@@ -103,10 +99,6 @@ SSE_quad = np.sum((y - y_pred_quad)**2)
 # R-squared
 R2_quad = 1 - SSE_quad/SStot
 
-# Adjusted R-squared
-p = 2
-adj_R2_quad = 1 - (1-R2_quad)*(n-1)/(n-p-1)
-
 # RMSE
 RMSE_quad = np.sqrt(SSE_quad/n)
 
@@ -118,7 +110,6 @@ print(f"Model: y = {a0_quad:.6f} + ({a1_quad:.6f})x + ({a2_quad:.6f})x^2")
 print(f"SSE = {SSE_quad:.4f}")
 print(f"RMSE = {RMSE_quad:.4f}")
 print(f"R^2 = {R2_quad:.4f}")
-print(f"Adjusted R^2 = {adj_R2_quad:.4f}")
 
 
 # ==========================================
@@ -150,10 +141,6 @@ SSE_exp = np.sum((y - y_pred_exp)**2)
 # R-squared
 R2_exp = 1 - SSE_exp/SStot
 
-# Adjusted R-squared
-p = 2
-adj_R2_exp = 1 - (1-R2_exp)*(n-1)/(n-p-1)
-
 # RMSE
 RMSE_exp = np.sqrt(SSE_exp/n)
 
@@ -164,7 +151,6 @@ print(f"Model: y = {a_exp:.6f} * e^({b_exp:.6f}x)")
 print(f"SSE = {SSE_exp:.4f}")
 print(f"RMSE = {RMSE_exp:.4f}")
 print(f"R^2 = {R2_exp:.4f}")
-print(f"Adjusted R^2 = {adj_R2_exp:.4f}")
 
 
 # ==========================================

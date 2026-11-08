@@ -63,10 +63,6 @@ SSE_lin = np.sum(residual_lin**2)
 # R-squared
 R2_lin = 1 - SSE_lin/SStot
 
-# Adjusted R-squared
-p = 1
-adj_R2_lin = 1 - (1-R2_lin)*(n-1)/(n-p-1)
-
 # RMSE
 RMSE_lin = np.sqrt(SSE_lin/n)
 
@@ -80,7 +76,6 @@ print("\n===== NUMERICAL RESULTS =====")
 print(f"SSE = {SSE_lin:.4f}")
 print(f"RMSE = {RMSE_lin:.4f}")
 print(f"R^2 = {R2_lin:.4f}")
-print(f"Adjusted R^2 = {adj_R2_lin:.4f}")
 
 
 # ==========================================
@@ -119,10 +114,6 @@ SSE_quad = np.sum(residual_quad**2)
 # R-squared
 R2_quad = 1 - SSE_quad/SStot
 
-# Adjusted R-squared
-p = 2
-adj_R2_quad = 1 - (1-R2_quad)*(n-1)/(n-p-1)
-
 # RMSE
 RMSE_quad = np.sqrt(SSE_quad/n)
 
@@ -142,7 +133,6 @@ print("\n===== NUMERICAL RESULTS =====")
 print(f"SSE = {SSE_quad:.4f}")
 print(f"RMSE = {RMSE_quad:.4f}")
 print(f"R^2 = {R2_quad:.4f}")
-print(f"Adjusted R^2 = {adj_R2_quad:.4f}")
 
 
 # ==========================================
@@ -195,11 +185,7 @@ SSE_exp = np.sum(residual_exp**2)
 # 8. R-squared
 R2_exp = 1 - SSE_exp/SStot
 
-# 9. Adjusted R-squared
-p = 1
-adj_R2_exp = 1 - (1-R2_exp)*(n-1)/(n-p-1)
-
-# 10. RMSE
+# 9. RMSE
 RMSE_exp = np.sqrt(SSE_exp/n)
 
 # Print results
@@ -216,7 +202,6 @@ print("\n===== NUMERICAL RESULTS =====")
 print(f"SSE = {SSE_exp:.4f}")
 print(f"RMSE = {RMSE_exp:.4f}")
 print(f"R^2 = {R2_exp:.4f}")
-print(f"Adjusted R^2 = {adj_R2_exp:.4f}")
 
 
 # ==========================================
@@ -230,21 +215,18 @@ print(f"{'Model':<15} {'R^2':<12} {'Adjusted R^2':<16} {'RMSE':<12}")
 print(
     f"{'Linear':<15} "
     f"{R2_lin:<12.4f} "
-    f"{adj_R2_lin:<16.4f} "
     f"{RMSE_lin:<12.4f}"
 )
 
 print(
     f"{'Quadratic':<15} "
     f"{R2_quad:<12.4f} "
-    f"{adj_R2_quad:<16.4f} "
     f"{RMSE_quad:<12.4f}"
 )
 
 print(
     f"{'Exponential':<15} "
     f"{R2_exp:<12.4f} "
-    f"{adj_R2_exp:<16.4f} "
     f"{RMSE_exp:<12.4f}"
 )
 

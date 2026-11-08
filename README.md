@@ -27,13 +27,12 @@ The models are evaluated using:
 
 - Sum of Squared Errors (SSE)
 - Coefficient of Determination (R²)
-- Adjusted R²
 - Root Mean Square Error (RMSE)
 
 ## Source Code
 
-- `BMI.py` — Regression analysis using BMI.
-- `GDP.py` — Regression analysis using GDP per capita.
+- `Least_Square_Regression(BMI).py` — Regression analysis using BMI.
+- `Least_Square_Regression(GDP).py` — Regression analysis using GDP per capita.
 
 ## Dataset
 
