@@ -1,0 +1,180 @@
+Country,Life_expectancy,GDP_per_capita,BMI
+Afghanistan,63.4,556,23.3
+Albania,78.0,3953,26.6
+Algeria,76.1,4178,25.5
+Angola,59.4,3128,23.2
+Antigua and Barbuda,76.5,14285,26.6
+Argentina,76.1,13789,27.6
+Armenia,74.5,3607,26.3
+Australia,82.4,56707,27.1
+Austria,81.2,44196,25.5
+Azerbaijan,72.3,5500,26.9
+"Bahamas, The",73.1,31699,27.9
+Bahrain,76.8,22634,24.8
+Bangladesh,71.5,1248,21.6
+Barbados,78.8,16559,27.7
+Belarus,73.6,5967,26.6
+Belgium,81.0,41008,26.1
+Belize,74.0,4805,28.9
+Benin,60.6,1077,23.5
+Bhutan,70.4,2753,23.8
+Bolivia,70.3,3036,26.4
+Bosnia and Herzegovina,76.9,4730,25.7
+Botswana,67.3,6403,24.3
+Brazil,75.0,8814,26.5
+Brunei Darussalam,75.3,31164,27.0
+Bulgaria,74.6,7075,26.4
+Burkina Faso,59.9,653,22.1
+Burundi,60.1,306,21.6
+Cabo Verde,72.1,3043,24.5
+Cambodia,68.6,1163,22.1
+Cameroon,57.6,1383,24.3
+Canada,81.9,43596,26.9
+Central African Republic,50.9,377,22.8
+Chad,53.1,776,21.9
+Chile,79.6,13495,27.9
+China,75.9,8016,23.7
+Colombia,76.5,6176,26.1
+Comoros,63.5,1243,24.3
+"Congo, Dem. Rep.",59.3,497,21.9
+"Congo, Rep.",63.1,2449,23.1
+Costa Rica,79.6,11643,27.3
+Cote d'Ivoire,56.1,1973,23.7
+Croatia,77.3,11933,27.3
+Cuba,78.6,7694,25.6
+Cyprus,80.4,23408,26.8
+Czechia,78.6,17830,27.0
+Denmark,80.7,53255,25.3
+Djibouti,64.1,2653,24.0
+Dominican Republic,73.2,6922,26.4
+Ecuador,76.1,6124,27.1
+"Egypt, Arab Rep.",71.3,3563,29.5
+El Salvador,72.4,3706,27.6
+Equatorial Guinea,57.4,11283,23.9
+Eritrea,64.7,9011,20.7
+Estonia,77.6,17402,26.4
+Eswatini,55.4,3680,26.8
+Ethiopia,65.0,641,20.5
+Fiji,67.1,5391,27.6
+Finland,81.5,42802,25.9
+France,82.3,36653,25.0
+Gabon,64.9,7385,25.2
+"Gambia, The",60.9,661,23.9
+Georgia,73.0,4014,27.5
+Germany,80.6,41103,26.5
+Ghana,62.8,1774,23.9
+Greece,81.0,18084,27.1
+Grenada,72.4,9097,26.9
+Guatemala,73.3,3995,26.5
+Guinea,59.6,769,22.9
+Guinea-Bissau,57.0,603,23.4
+Guyana,69.3,5577,26.3
+Haiti,62.5,1387,25.2
+Honduras,74.5,2302,26.7
+Hungary,75.6,12721,27.2
+Iceland,82.5,52952,26.2
+India,68.6,1606,21.7
+Indonesia,70.8,3332,23.0
+"Iran, Islamic Rep.",75.8,5201,26.1
+Iraq,69.9,4688,28.6
+Ireland,81.5,62012,27.4
+Israel,82.1,35808,27.2
+Italy,82.5,30242,25.6
+Jamaica,74.1,4908,27.6
+Japan,83.8,34961,22.7
+Jordan,74.1,4164,28.9
+Kazakhstan,72.0,10511,26.3
+Kenya,64.8,1465,23.3
+Kiribati,67.3,1535,30.0
+Kuwait,75.1,29870,29.5
+Kyrgyz Republic,70.7,1121,26.5
+Lao PDR,66.5,2140,22.8
+Latvia,74.5,13786,26.6
+Lebanon,78.8,7643,27.5
+Lesotho,51.0,1146,24.9
+Liberia,62.3,722,24.0
+Libya,72.1,7590,28.0
+Lithuania,74.3,14264,26.4
+Luxembourg,82.3,105462,26.3
+Madagascar,65.5,467,21.3
+Malawi,62.0,381,22.8
+Malaysia,75.5,9955,25.6
+Maldives,77.7,9033,25.3
+Mali,57.5,751,22.9
+Malta,81.9,24922,27.1
+Mauritania,63.9,1524,24.9
+Mauritius,74.4,9260,25.2
+Mexico,74.9,9617,27.9
+"Micronesia, Fed. Sts.",67.3,2907,29.6
+Moldova,71.5,2732,27.0
+Mongolia,69.1,3875,26.1
+Montenegro,76.4,6517,26.5
+Morocco,75.7,2875,25.9
+Mozambique,57.2,590,22.7
+Myanmar,65.8,1197,22.6
+Namibia,62.1,4897,24.2
+Nepal,69.5,902,22.4
+Netherlands,81.5,45193,25.5
+New Zealand,81.5,38631,28.0
+Nicaragua,73.6,2050,27.2
+Niger,60.6,484,21.8
+Nigeria,53.1,2687,23.2
+North Macedonia,75.4,4862,26.7
+Norway,82.3,74356,26.6
+Oman,76.9,18445,26.3
+Pakistan,66.6,1357,23.9
+Panama,77.8,13630,26.8
+Papua New Guinea,63.5,2679,25.5
+Paraguay,73.7,5414,26.6
+Peru,75.8,6229,26.5
+Philippines,70.6,3001,23.1
+Poland,77.5,12578,26.6
+Portugal,81.1,19250,25.7
+Qatar,79.8,63039,29.1
+Romania,74.9,8969,26.7
+Russian Federation,71.2,9313,26.2
+Rwanda,67.5,751,22.0
+Samoa,72.7,4074,32.1
+Sao Tome and Principe,69.4,1585,24.7
+Saudi Arabia,74.7,20628,28.4
+Senegal,66.7,1219,22.9
+Serbia,75.3,5589,26.0
+Seychelles,74.3,15158,26.6
+Sierra Leone,52.9,588,22.7
+Singapore,82.7,55647,23.6
+Slovak Republic,76.6,16342,26.4
+Slovenia,80.8,20890,26.5
+Solomon Islands,72.2,2167,26.2
+Somalia,55.9,386,23.1
+South Africa,62.6,6260,27.2
+Spain,82.8,25742,26.0
+Sri Lanka,76.3,3844,23.0
+St. Lucia,75.6,10094,29.8
+St. Vincent and the Grenadines,72.1,7207,27.1
+Suriname,71.2,9168,26.5
+Sweden,82.2,51545,26.0
+Switzerland,82.9,84776,25.2
+Syrian Arab Republic,69.9,979,28.2
+Tajikistan,70.1,978,25.9
+Tanzania,63.1,948,23.1
+Thailand,76.1,5840,24.3
+Timor-Leste,68.5,1333,21.2
+Togo,59.9,571,23.5
+Tonga,70.5,4336,32.1
+Trinidad and Tobago,72.9,18384,27.5
+Tunisia,75.9,4095,26.3
+Turkiye,76.5,11006,27.8
+Turkmenistan,67.7,6433,26.4
+Uganda,61.4,847,22.4
+Ukraine,71.2,2125,26.5
+United Arab Emirates,77.3,38663,28.4
+United Kingdom,81.0,45405,27.1
+United States,78.7,56763,28.8
+Uruguay,77.4,15614,27.3
+Uzbekistan,70.9,2754,26.7
+Vanuatu,69.9,2696,26.1
+"Venezuela, RB",72.6,17318,26.7
+Vietnam,75.1,2582,21.7
+"Yemen, Rep.",66.1,1602,23.7
+Zambia,61.7,1338,22.5
+Zimbabwe,59.5,1445,23.8
