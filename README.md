@@ -32,8 +32,8 @@ The models are evaluated using:
 
 ## Source Code
 
-- `BMI.py` — Regression analysis using BMI.
-- `GDP.py` — Regression analysis using GDP per capita.
+- `Least_Square_Regression(BMI).py` — Regression analysis using BMI.
+- `Least_Square_Regression(GDP).py` — Regression analysis using GDP per capita.
 
 ## Dataset
 
